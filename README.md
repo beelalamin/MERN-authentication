@@ -16,7 +16,7 @@
 - React-Spinners
 - React-Toastify
 
-## To Get Start
+## To Get Started
 
 -  `npm install` 
 - cd front-end `npm install`
