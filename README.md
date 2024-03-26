@@ -1,6 +1,7 @@
 # MERN-authentication
 
 ## Complete MERN Authentication Template Developed Using:
+- Vite
 - ReactJS
 - NodeJS
 - ExpressJS
@@ -9,3 +10,8 @@
 - JSON Web Tokens (JWT)
 - Tailwindcss
 
+### Third-party Libraries Used:
+- Bcryptjs
+- Mongoose
+- React-Spinners
+- React-Toastify
