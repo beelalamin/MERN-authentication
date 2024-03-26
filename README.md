@@ -15,3 +15,10 @@
 - Mongoose
 - React-Spinners
 - React-Toastify
+
+## To Get Start
+
+-  `npm install` 
+- cd front-end `npm install`
+- cd .. 
+- `npm run dev`
